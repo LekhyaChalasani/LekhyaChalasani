@@ -4,7 +4,7 @@ I build data pipelines, data models, and dashboards that turn raw data into deci
 
 I have 8+ years of experience across PwC, Amazon, Concentrix, and Ektha, and an MS in Data Analytics, where I specialized in data modeling, data warehousing, and database administration. I also worked as a Teaching Assistant in the program.
 
-Before data, I trained as an architect (B.Arch). That background still shapes how I work: structure first, then clean design on top.
+I'm also a licensed architect (B.Arch). That background shapes how I work with data: structure first, then clean design on top.
 
 ## What I work with
 
